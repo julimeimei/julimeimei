@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="40" viewBox="0 0 230 40" role="img" aria-label="Website">
+  <rect x=".5" y=".5" width="229" height="39" rx="4" fill="#0a0f14" stroke="#3b434b"/>
+  <g fill="none" stroke="#e6edf3" stroke-width="1.8" stroke-linecap="round">
+    <circle cx="55" cy="20" r="9"/><path d="M46 20h18M55 11c-3 2.5-4 5.5-4 9s1 6.5 4 9M55 11c3 2.5 4 5.5 4 9s-1 6.5-4 9"/>
+  </g>
+  <text x="143" y="25" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-weight="700" font-size="14" letter-spacing="2" fill="#f0f6fc">WEBSITE</text>
+</svg>
